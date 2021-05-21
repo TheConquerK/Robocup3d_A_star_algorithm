@@ -11,6 +11,8 @@ Here are steps:
 2. copy all source code of this project to yours(AStarBase.h & AStarMath.cpp)
 3. refer to strategy.cc you can learn how to use our algorithm
 
+For more details you can read the documention.pdf 
+
 PS:
 We would be pleased if this demo can help you make your soccer3d team better.
 If there are any questions,please let us know.
