@@ -165,7 +165,7 @@ SkillType NaoBehavior::selectSkill()
                                                     
             }
         }
-    
+    }
     return SKILL_STAND;
 }
 
