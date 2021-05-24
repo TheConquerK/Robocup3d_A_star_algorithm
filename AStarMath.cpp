@@ -1,4 +1,9 @@
-//#include <stdafx>
+/*
+ *@author: Kangkang
+ *@from：NEU_Smart_Lab
+ *@date: 2021-4-30
+ *@description: A* algorithm used in Robocup3d
+ */
 #include <iostream>
 #include<vector>
 #include<algorithm>
