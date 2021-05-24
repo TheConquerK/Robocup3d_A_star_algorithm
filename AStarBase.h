@@ -1,4 +1,11 @@
 /*
+ *@author: Kangkang
+ *@from：NEU_Smart_Lab
+ *@date: 2021-4-30
+ *@description: A* algorithm used in Robocup3d
+ */
+
+/*
 	A star 算法的基础处理
 */
 #ifndef _A_STAR_BASE_H_
